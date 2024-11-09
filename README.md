@@ -1,4 +1,4 @@
-![Funcionamiento] (GIFs/Navigation_Module.mp4)
+![Funcionamiento] (GIFs/Navigation_Module.gif)
 
 ### Features
 
