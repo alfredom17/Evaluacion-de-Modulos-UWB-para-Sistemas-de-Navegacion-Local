@@ -1,4 +1,4 @@
-![] (GIFs/Navigation_Module.gif)
+![](GIFs/Navigation_Module.gif)
 
 ### Features
 
