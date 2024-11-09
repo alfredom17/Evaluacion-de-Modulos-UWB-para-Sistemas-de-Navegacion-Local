@@ -3,10 +3,8 @@
 #include "MPU9250.h"
 
 // Credenciales de Red para ROBOTAT UVG - CIT 116
-//const char* ssid = "Robotat";
-//const char* password = "iemtbmcit116";
-const char* ssid = "Familiamm2024";
-const char* password = "familiamm2022";
+const char* ssid = "Robotat";
+const char* password = "iemtbmcit116";
 
 // Configuracion del servidor
 WiFiServer server(80); // Puerto 80
