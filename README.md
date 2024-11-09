@@ -1,3 +1,5 @@
+![](GIFs/Navigation_Module.mp4)
+
 ### Features
 
 - Ejecución en tiempo real de fusión de sensores como DWM1001 (UWB), MPU9250 (IMU), utilizando un DOIT DevKit V1 ESP32.
