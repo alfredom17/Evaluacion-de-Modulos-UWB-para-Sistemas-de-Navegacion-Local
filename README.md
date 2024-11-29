@@ -68,13 +68,18 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
         <p>PCB</p>
       </td>
       <td align="center">
-        <img src="Fotos/navModule.jpeg" alt="Nav Module" width="400">
+        <img src="Fotos/navModule.jpeg" alt="Módulo de Navegación" width="400">
         <p>Nav Module</p>
       </td>
     </tr>
   </table>
 </p>
 
+### Montaje 360
+
+<p align="center">
+  <img src="GIFs/360View.gif" alt="Montaje" width="800">
+</p>
 
 
 ### Links
