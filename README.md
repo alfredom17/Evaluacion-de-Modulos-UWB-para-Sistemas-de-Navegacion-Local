@@ -1,7 +1,7 @@
 ### Implementación en tiempo real
 
 <p align="center">
-  <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="600">
+  <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="800">
 </p>
 
 
