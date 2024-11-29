@@ -64,12 +64,12 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
   <table>
     <tr>
       <td align="center">
-        <img src="Fotos/PCB_IMP.png" alt="PCB" width="400">
-        <p>PCB</p>
+        <img src="Fotos/PCB_IMP.png" alt="PCB fabricado " width="400">
+        <p>PCB fabricación y diseño </p>
       </td>
       <td align="center">
         <img src="Fotos/navModule.jpeg" alt="Módulo de Navegación" width="400">
-        <p>Nav Module</p>
+        <p>Módulo de Navegación</p>
       </td>
     </tr>
   </table>
@@ -88,11 +88,11 @@ Disposición de sensores
     <tr>
       <td align="center">
         <img src="Fotos/Montaje_MDEK1001.jpeg" alt="Montaje en trípode" width="200">
-        <p>PCB</p>
+        <p>Montaje en trípode</p>
       </td>
       <td align="center">
         <img src="Fotos/Coord_UWB_OPTI.jpg" alt="Orden de Montaje y Sistemas de coordenadas" width="400">
-        <p>Nav Module</p>
+        <p>Orden de Montaje y Sistemas de coordenadas</p>
       </td>
     </tr>
   </table>
