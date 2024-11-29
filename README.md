@@ -1,4 +1,3 @@
-![Carro_final](https://github.com/user-attachments/assets/cd5266c5-21a5-420d-8ea5-800b1fa88705)### Implementación en tiempo real
 
 <p align="center">
   <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="800">
