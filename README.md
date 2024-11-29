@@ -1,4 +1,4 @@
-### Implementación en tiempo real
+![Carro_final](https://github.com/user-attachments/assets/cd5266c5-21a5-420d-8ea5-800b1fa88705)### Implementación en tiempo real
 
 <p align="center">
   <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="800">
@@ -53,6 +53,28 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
 | GIFs | Gifs para README. |
 | PCB | Archivos gerber para realizar PCB, también se encuentra información en la sección de links para más detalles. |
 | PROTOCOLO | Protocolo de Trabajo de Graduación. |
+
+### Carro de Pruebas
+
+<p align="center">
+  <img src="Fotos/Carro_final.jpeg" alt="Carro final" width="400">
+</p>
+
+### PCB y Módulo de Navegación
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Fotos/PCB_IMP.png" alt="PCB" width="400">
+        <p>PCB</p>
+      </td>
+      <td align="center">
+        <img src="Fotos/navModule.jpeg" alt="Nav Module" width="400">
+        <p>Nav Module</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
