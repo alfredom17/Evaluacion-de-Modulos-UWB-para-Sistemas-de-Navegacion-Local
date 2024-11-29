@@ -1,4 +1,9 @@
-+![](GIFs/Navigation_Module.gif)
+### Implementación en tiempo real
+
+<p align="center">
+  <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="600">
+</p>
+
 
 ### Descripción
 
@@ -28,7 +33,10 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 - MATLAB -> Se utilizó para obtención de estadísticas y plots para validar el uso de filtro complementarios y homografía proyectiva.
 
 Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento de datos.
-<img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="600">
+
+<p align="center">
+  <img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="600">
+</p>
 
 
 
