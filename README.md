@@ -79,13 +79,13 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
   </table>
 </div>
 
-nota: durante el trabajo se cambió el MPU9250 GY-91 de 10DOF al MPU9250 con 9DOF por fallo de Hardware, sin embargo el integrado sigue siendo el mismo.
+Nota: durante el trabajo se cambió el MPU9250 GY-91 de 10DOF al MPU9250 con 9DOF por fallo de Hardware, sin embargo el integrado sigue siendo el mismo.
 
 ### Montaje de sensores MDEK1001 configurados como ancla
 
 Disposición de sensores
 <p align="center">
-  <img src="GIFs/360View.gif" alt="Montaje" width="800">
+  <img src="GIFs/360View.gif" alt="Montaje" width="600">
 </p>
 
 <p align="center">
