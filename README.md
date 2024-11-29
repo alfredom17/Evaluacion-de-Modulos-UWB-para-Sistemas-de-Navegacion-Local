@@ -35,7 +35,7 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento de datos.
 
 <p align="center">
-  <img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="600">
+  <img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="400">
 </p>
 
 
@@ -44,7 +44,17 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
 | Carpeta  | Descripción |
 | ------------- | ------------- |
 | Archivos-CAD | Contiene enclosure de MDEK1001 y piezas para ensamblaje de carro de pruebas, esto incluye todos los elementos como módulos o placas PCB utilizadas  |
-| Códigos-ARDUINO  | Contiene iteraciones de código para lograr la obtención de datos crudos y envío de los mismos |
+| Códigos-ARDUINO  | Contiene iteraciones de código para lograr la obtención de datos crudos y envío de los mismos. |
+| Códigos-MATLAB | En esta carpeta se debe usar "DYNAMIC_Plotting_ButterWorth_POS.m", "DYNAMIC_Plotting_CompFilt_POS.m" y "Homografia.m" el resto son funciones correspondientes a obtención de datos de Optitrack y archivos de datos donde se guardaron variables de homografía. Este código trabaja con la generación de .CSV de python correspondiente a la versión "3_UWB_OPTI_DATAFETCH.py". |
+| Codigos-PYTHON | Esta carpeta contiene versiones de captura de datos mediante Wi-Fi TCP, se recomienda utilizar la V0.3 para obtención de datos crudos, V0.4 para visualización en tiempo real con filtro complementario normal y aplicación de homografía |
+| Datasets | Se tienen las carpetas de datasets estáticos (calibración) y dinámicos. Estos datos se pueden utilizar para analizarlos utilizando los códigos de MATLAB o algún otro programa de análisis de datos. Allí se encuentran trayectorias, puntos correspondientes, etc. Se obtienen con la V0.3 o "3_UWB_OPTI_DATAFETCH.py". |
+| Documentos-Referencias | Documentos académicos utilizados y hojas de datos. |
+| Fotos | Fotos para README. |
+| GIFs | Gifs para README. |
+| PCB | Archivos gerber para realizar PCB, también se encuentra información en la sección de links para más detalles. |
+| PROTOCOLO | Protocolo de Trabajo de Graduación. |
+
+
 
 ### Links
 
