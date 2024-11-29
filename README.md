@@ -74,11 +74,28 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
     </tr>
   </table>
 </p>
+nota: durante el trabajo se cambió el MPU9250 GY-91 de 10DOF al MPU9250 con 9DOF por fallo de Hardware, sin embargo el integrado sigue siendo el mismo.
 
-### Montaje 360
+### Montaje de sensores MDEK1001 configurados como ancla
 
+Disposición de sensores
 <p align="center">
   <img src="GIFs/360View.gif" alt="Montaje" width="800">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Fotos/Montaje_MDEK1001.jpeg" alt="Montaje en trípode" width="400">
+        <p>PCB</p>
+      </td>
+      <td align="center">
+        <img src="Fotos/Coord_UWB_OPTI.jpg" alt="Orden de Montaje y Sistemas de coordenadas" width="400">
+        <p>Nav Module</p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
