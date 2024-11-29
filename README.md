@@ -19,12 +19,23 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 - Fusión de sensores con filtros complementarios.
 - Aplicación de homografía proyectiva para calibración y mapeo de un sistema de coordenadas UWB a un sistema de captura de cámaras Optitrack.
 
-### Uso Carpetas principales Principales
+### Uso de Carpetas y archivos importantes
+
+¿Para qué se usan los distintos lenguajes de programación?
+
+- C++ -> Se utilizó en la IDE de ARDUINO para programar el ESP32 y obtener datos crudos de posición del MDEK1001 y el MPU9250 así como el control del carro.
+- Python -> Se utilizó para obtención de datos mediante Wi-Fi TCP, generación de archivos .CSV de datos crudos, procesamiento y graficación en tiempo real.
+- MATLAB -> Se utilizó para obtención de estadísticas y plots para validar el uso de filtro complementarios y homografía proyectiva.
+
+Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento de datos.
+![Arquitectura de Proyecto](Fotos/DataFetch_Processing.jpg)
+
+
 
 | Carpeta  | Descripción |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Archivos-CAD | Contiene enclosure de MDEK1001 y piezas para ensamblaje de carro de pruebas, esto incluye todos los elementos como módulos o placas PCB utilizadas  |
+| Códigos-ARDUINO  | Contiene iteraciones de código para lograr la obtención de datos crudos y envío de los mismos |
 
 ### Links
 
