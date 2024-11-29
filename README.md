@@ -19,6 +19,13 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 - Fusión de sensores con filtros complementarios.
 - Aplicación de homografía proyectiva para calibración y mapeo de un sistema de coordenadas UWB a un sistema de captura de cámaras Optitrack.
 
+### Uso Carpetas principales Principales
+
+| Carpeta  | Descripción |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Links
 
 - [PCB](https://oshwlab.com/mel20310/uwb_mpu9250_esp32_integration)
