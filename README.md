@@ -35,7 +35,7 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento de datos.
 
 <p align="center">
-  <img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="400">
+  <img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="600">
 </p>
 
 
