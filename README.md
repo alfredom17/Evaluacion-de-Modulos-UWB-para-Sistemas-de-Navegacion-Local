@@ -60,12 +60,12 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
 </p>
 
 ### PCB y Módulo de Navegación
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <table>
     <tr>
       <td align="center">
-        <img src="Fotos/PCB_IMP.png" alt="PCB fabricado " width="400">
-        <p>PCB fabricación y diseño </p>
+        <img src="Fotos/PCB_IMP.png" alt="PCB fabricado" width="400">
+        <p>PCB fabricación y diseño</p>
       </td>
       <td align="center">
         <img src="Fotos/navModule.jpeg" alt="Módulo de Navegación" width="400">
@@ -73,7 +73,8 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 nota: durante el trabajo se cambió el MPU9250 GY-91 de 10DOF al MPU9250 con 9DOF por fallo de Hardware, sin embargo el integrado sigue siendo el mismo.
 
 ### Montaje de sensores MDEK1001 configurados como ancla
