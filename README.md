@@ -28,7 +28,8 @@ Este repositorio es producto del trabajo de graduación titulado "Evaluación de
 - MATLAB -> Se utilizó para obtención de estadísticas y plots para validar el uso de filtro complementarios y homografía proyectiva.
 
 Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento de datos.
-![Arquitectura de Proyecto](Fotos/DataFetch_Processing.jpg)
+<img src="Fotos/DataFetch_Processing.jpg" alt="Arquitectura de Proyecto" width="600">
+
 
 
 
