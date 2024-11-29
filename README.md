@@ -59,6 +59,8 @@ Se muestra el siguiente diagrama de arquitectura de obtención y procesamiento d
 
 ### Carro de Pruebas
 
+Este carro ayuda a mantener las condiciones de línea de vista y facilita el proceso de calibración y obtención de datos al ser manejado de manera remota. Para ello en el módulo de navegación se colocó un HC05 para enviar comandos. La idea fue reservar la antena del ESP32 exclusivamente para envío de datos mediante Wi-Fi TCP y de manera alterna controlar el carro con una antena USB como el HC05. La ventaja es que no es del todo necesario y el módulo de navegación se puede instalar en cualquier dispositivo móvil que lo use.
+
 <p align="center">
   <img src="Fotos/Carro_final.jpeg" alt="Carro final" width="400">
 </p>
