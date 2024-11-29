@@ -5,7 +5,8 @@
 
 ### Video Introductorio
 
-[Ver el video](https://youtu.be/SS0Pc4WxvF4)
+Este video es un resumen de lo que trata el trabajo de graduación.
+[Ver](https://youtu.be/SS0Pc4WxvF4)
 
 ### Descripción
 
