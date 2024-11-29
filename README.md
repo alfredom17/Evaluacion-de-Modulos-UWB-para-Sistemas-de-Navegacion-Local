@@ -87,7 +87,7 @@ Disposición de sensores
   <table>
     <tr>
       <td align="center">
-        <img src="Fotos/Montaje_MDEK1001.jpeg" alt="Montaje en trípode" width="400">
+        <img src="Fotos/Montaje_MDEK1001.jpeg" alt="Montaje en trípode" width="200">
         <p>PCB</p>
       </td>
       <td align="center">
