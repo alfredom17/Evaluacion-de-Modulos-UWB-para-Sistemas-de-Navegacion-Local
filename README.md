@@ -1,8 +1,7 @@
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="400">
-  <img src="GIFs/Navigation_Module2.gif" alt="Navigation Module GIF" width="400">
-</div>
+<p align="center">
+  <img src="GIFs/Navigation_Module.gif" alt="Navigation Module GIF" width="800">
+</p>
 
 
 
